@@ -1,6 +1,7 @@
-a=5
-b=6
+a=int(input())
+b=int(input())
 print(a+b)
 
 
 print("good morning")
+print(a-b)
